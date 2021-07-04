@@ -1,1 +1,3 @@
-# Retail_Customer_Segmentation
+##Retail Customer Segmentation
+
+*Analysed sales data
