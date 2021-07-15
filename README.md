@@ -18,5 +18,3 @@
 * 8 of the top 10 customers with the highest number of invoices are from the UK. 
 
 # Recommendations
-
-* Push for more 
