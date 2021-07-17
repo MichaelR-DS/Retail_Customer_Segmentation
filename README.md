@@ -7,8 +7,11 @@ In this project I analysed sales data from over over 500,000 transactions from a
 * python 3.8
 * numpy
 * pandas
+* sklearn
 * matplotlib
+* mpl_toolkits
 * seaborn
+* pycountry
 * plotly
 
 # Analysis
