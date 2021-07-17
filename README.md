@@ -1,4 +1,4 @@
-#Retail Customer Segmentation
+# Retail Customer Segmentation
 
 Dataset is the Online Retail Dataset and can be found [here.](https://archive.ics.uci.edu/ml/datasets/Online%20Retail)
 
