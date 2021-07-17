@@ -1,5 +1,7 @@
 #Retail Customer Segmentation
 
+Dataset is the Online Retail Dataset and can be found [here.](https://archive.ics.uci.edu/ml/datasets/Online%20Retail)
+
 In this project I analysed sales data from over over 500,000 transactions from an online store. I perform EDA on after cleaning the data and focus on customer metrics. I use K-means to cluster each customer into 4 categories and make recommendations on how to retain this category in the future.
 
 # Dependencies
