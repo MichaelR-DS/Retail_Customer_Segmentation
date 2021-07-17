@@ -33,6 +33,8 @@ Customers were segmented into equal sized bins of 600-1200 customers ber segment
 
 # Recommendations
 
-* Targeted advertising for customers characterising those in cluster 2 (i.e. have high RFM scores). Send out randomised surveys within this group or perform a/b testing to make their online shopping experience better.
-* Retain cluster 3 customers, perhaps by reducing prices for more expensive items.
+* Targeted advertising for customers characterising those in cluster 2 (i.e. have high RFM scores). 
+* Send out randomised surveys within this group (cluster 2) or perform a/b testing to make their online shopping experience better.
+* Start a customer loyalty program to better retain all groups
+* Retain cluster 3 customers, perhaps by reducing prices for more expensive items. Could offer credit on next purchase.
 * Target customers who buy from the UK
