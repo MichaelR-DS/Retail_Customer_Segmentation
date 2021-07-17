@@ -1,7 +1,6 @@
 #Retail Customer Segmentation
 
-* Analysed sales data from over over 500,000 transactions from an online store
-* 
+In this project I analysed sales data from over over 500,000 transactions from an online store. I perform EDA on after cleaning the data and focus on customer metrics. I use K-means to cluster each customer into 4 categories and make recommendations on how to retain this category in the future.
 
 # Dependencies
 
@@ -34,6 +33,6 @@ Customers were segmented into equal sized bins of 600-1200 customers ber segment
 
 # Recommendations
 
-* Targeted advertising for customers characterising those in cluster 2 (i.e. have high RFM scores). 
+* Targeted advertising for customers characterising those in cluster 2 (i.e. have high RFM scores). Send out randomised surveys within this group or perform a/b testing to make their online shopping experience better.
 * Retain cluster 3 customers, perhaps by reducing prices for more expensive items.
 * Target customers who buy from the UK
